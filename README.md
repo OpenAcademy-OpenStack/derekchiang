@@ -8,7 +8,7 @@
 cd exercise-1
 ```
 
-Then, edit `config.json` to make sure the configurations are correct.
+Then, edit `config.json` to make sure the parameters are correct.
 
 ```bash
 python exercise.py
