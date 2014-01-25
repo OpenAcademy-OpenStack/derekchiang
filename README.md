@@ -1,6 +1,18 @@
 # OpenAcademy -- OpenStack
 
-TODO
+## Exercise 1
+
+### To run
+
+```bash
+cd exercise-1
+```
+
+Then, edit `config.json` to make sure the configurations are correct.
+
+```bash
+python exercise.py
+```
 
 ## License
 
