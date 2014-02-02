@@ -1,8 +1,6 @@
-# OpenAcademy -- OpenStack
+# Exercise 1
 
-## Exercise 1
-
-### To run
+## To run
 
 ```bash
 cd exercise-1

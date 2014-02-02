@@ -1,0 +1,9 @@
+{
+	"glancePublicUrl": "http://10.0.2.15:9292",
+	"novaPublicUrl": "http://10.0.2.15:8774/v2/8998e6ba398446c59e685e2af32d9d0c",
+	"username": "admin",
+	"password": "123456",
+	"tenantName": "admin",
+	"authUrl": "http://10.0.2.15:5000/v2.0",
+	"userdata": "ping-script.sh",
+}
